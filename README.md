@@ -1,1 +1,1 @@
-# Javascript-Bootcamp
+# Javascript-Bootcamp Day 1
